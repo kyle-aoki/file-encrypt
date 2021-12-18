@@ -1,4 +1,4 @@
 
-file-encrypt my-pdf.pdf
+encrypt my-pdf.pdf secret-key
 
-file-decrypt /Users/kyle
+decrypt encrypted_my-pdf.pdf secret-key
