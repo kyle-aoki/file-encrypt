@@ -1,0 +1,4 @@
+
+file-encrypt my-pdf.pdf
+
+file-decrypt /Users/kyle
